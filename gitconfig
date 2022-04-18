@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = brunoshingai@gmail.com
+	name = Bruno Shingai
